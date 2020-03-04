@@ -11,5 +11,3 @@
 ```
 ./calculator
 ```
-# phpcalculator
-# phpcalculator
